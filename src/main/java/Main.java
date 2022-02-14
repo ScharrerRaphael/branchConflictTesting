@@ -4,5 +4,6 @@ public class Main {
 
         System.out.println("Arbeiter1");
         System.out.println("Arbeiter2");
+        System.out.println("Arbeiter1 fügt etwas hinzu worauf Arbeiter2 pullt");
     }
 }
